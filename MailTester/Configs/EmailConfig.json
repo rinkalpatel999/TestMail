@@ -1,0 +1,11 @@
+﻿{
+  "MailHost": "smtp.gmail.com",
+  "Port": 587,
+  "User": "sanelib@rapidradio.co.in",
+  "Password": "S2n3lib123",
+  "From": "sanelib@rapidradio.co.in",
+  "DisplayName": "Library",
+  "ReplyTo": "sanelib@rapidradio.co.in",
+  "IsSecureSocket": true,
+  "IsEnabled": true
+}
